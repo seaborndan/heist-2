@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seaborn\\workspace\\cSharp\\plan-heist\\heist-2\\heist-2\\heist-2.csproj": {}
+    "C:\\Users\\ryana\\workspace\\csharp\\exercises\\HeistPart2\\heist-2\\heist-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seaborn\\workspace\\cSharp\\plan-heist\\heist-2\\heist-2\\heist-2.csproj": {
+    "C:\\Users\\ryana\\workspace\\csharp\\exercises\\HeistPart2\\heist-2\\heist-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seaborn\\workspace\\cSharp\\plan-heist\\heist-2\\heist-2\\heist-2.csproj",
+        "projectUniqueName": "C:\\Users\\ryana\\workspace\\csharp\\exercises\\HeistPart2\\heist-2\\heist-2.csproj",
         "projectName": "heist-2",
-        "projectPath": "C:\\Users\\Seaborn\\workspace\\cSharp\\plan-heist\\heist-2\\heist-2\\heist-2.csproj",
-        "packagesPath": "C:\\Users\\Seaborn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seaborn\\workspace\\cSharp\\plan-heist\\heist-2\\heist-2\\obj\\",
+        "projectPath": "C:\\Users\\ryana\\workspace\\csharp\\exercises\\HeistPart2\\heist-2\\heist-2.csproj",
+        "packagesPath": "C:\\Users\\ryana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryana\\workspace\\csharp\\exercises\\HeistPart2\\heist-2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Seaborn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ryana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
