@@ -1,0 +1,16 @@
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\heist-2.csproj.AssemblyReference.cache
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\heist-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\heist-2.AssemblyInfoInputs.cache
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\heist-2.AssemblyInfo.cs
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\heist-2.csproj.CoreCompileInputs.cache
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\bin\Debug\net5.0\heist-2.exe
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\bin\Debug\net5.0\heist-2.deps.json
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\bin\Debug\net5.0\heist-2.runtimeconfig.json
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\bin\Debug\net5.0\heist-2.runtimeconfig.dev.json
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\bin\Debug\net5.0\heist-2.dll
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\bin\Debug\net5.0\ref\heist-2.dll
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\bin\Debug\net5.0\heist-2.pdb
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\heist-2.dll
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\ref\heist-2.dll
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\heist-2.pdb
+C:\Users\Seaborn\workspace\cSharp\plan-heist\heist-2\heist-2\obj\Debug\net5.0\heist-2.genruntimeconfig.cache

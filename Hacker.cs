@@ -17,6 +17,11 @@ namespace heist_2
         }
       }
 
+      public void character(string nameInput, int skillInput, int percentInput) {
+        Name = nameInput;
+        SkillLevel = skillInput;
+        PercentageCut = percentInput;
+      }
 
     }
     
