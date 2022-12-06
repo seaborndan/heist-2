@@ -16,7 +16,17 @@ namespace heist_2
             Larry.character("Larry", 30, 40);
             LockSpecialist Lucius = new LockSpecialist();
             Lucius.character("Lucius", 40, 40);
+            
+            Random r = new Random();
+            Bank TargetBank = new Bank()
+            {
+                CashOnHand = r.Next(50000, 1000000),
+                AlarmScore = r.Next(100),
+                VaultScore = r.Next(100),
+                SecurityGuardScore = r.Next(100),
+            };
 
+            Console.WriteLine($"Cash on Hand: {TargetBank.CashOnHand}, Alarm Score: {TargetBank.AlarmScore}, Vault Score: {TargetBank.VaultScore}, Security Guard Score: {TargetBank.SecurityGuardScore}");
 
             List<IRobber> rolodex = new List<IRobber>() {
                 Joe, Josh, Eugene, Larry, Lucius
@@ -48,21 +58,32 @@ namespace heist_2
 
                 Console.WriteLine("Enter team member's percentage cut:");
                 string percentInput = Console.ReadLine();
-                double percentCut = Double.Parse(percentInput);
+                int percentCut = Int32.Parse(percentInput);
 
 
                 if(specialtyNum == 1) {
-
+                    Hacker dude = new Hacker();
+                    dude.character(memberName, SkillLevel, percentCut);
+                    rolodex.Add(dude);
                 }
                 else if(specialtyNum == 2) {
-                    
+                    Muscle dude2 = new Muscle();
+                     dude2.character(memberName, SkillLevel, percentCut);
+                     rolodex.Add(dude2);
                 }
                 else {
-                    
+                    LockSpecialist dude3 = new LockSpecialist();
+                    dude3.character(memberName, SkillLevel, percentCut);
+                    rolodex.Add(dude3);
                 }
-                
+                foreach (IRobber robber in rolodex)
+            {
+                Console.WriteLine($"{robber.Name}");
+            }
 
             }
+
+            
 
             
         }
